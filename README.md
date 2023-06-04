@@ -1,2 +1,2 @@
-# confluance-chat
-confluance-chat
+# chat-with-pdf
+chat-with-pdf
